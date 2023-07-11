@@ -62,7 +62,7 @@
     width: 480px;
    
     text-align: center;
-    margin-left: 502px;
+    margin-left: 445px;
     color: #BABABA;
 }
 
@@ -107,13 +107,13 @@
 }
 
 .box-left{
-    margin-left: 127px;
+    margin-left: 3px;
     margin-right: -328px;
 
 }
 
 .box-right{
-    margin-right: 99px;
+    margin-right: 3px;
     margin-left: -331px;
 }
 
@@ -122,7 +122,7 @@
     display: flex;
     background-color: #F4F4F4;
     width: 911px;
-    margin-left: 292px;
+    margin-left: 204px;
     padding-top: 53px;
     padding-left: 24px;
     margin-top: 91px;
@@ -209,7 +209,7 @@ margin-top: 73px;
     width: 480px;
    
     text-align: center;
-    margin-left: 502px;
+    margin-left: 431px;
     color: #C1C1C1;
 }
 
@@ -230,7 +230,7 @@ margin-top: 73px;
     background-size: cover;
     height: 291px;
     width: 1027px;
-    margin-left: 226px;
+    margin-left: 160px;
     margin-top: 100px;
     margin-bottom: 100px;
     text-align: center;
@@ -290,7 +290,7 @@ input::placeholder{
 
 .main-footer p{
     width: 596px;
-    margin-left: 455px;
+    margin-left: 387px;
     margin-bottom: 25px;
     font-size: 20px;
 }
@@ -314,7 +314,7 @@ small{
     background-size: cover;
     height: 200px;
     width: 603px;
-    margin-left: 120px;
+    margin-left: 58px;
 }
 
 .left-shop-item h1{
